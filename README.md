@@ -13,3 +13,9 @@ taking a pdf file and then turning it into a text file.  From there I can use th
 Text to Speech API which will allow me to easily convert the text to an mp3 file.  
 Finally I must find a way to speed up or slow down that mp3 file and attempt to create an
 interface to do that.
+
+Found a Python Package called PyPDF2 that converts pdf files to txt files.
+
+
+To run first install PyPDF2 (pip install PyPDF2) 	
+Next Install Google Text-To-Speech (pip install gTTS)
