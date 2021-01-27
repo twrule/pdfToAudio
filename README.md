@@ -19,3 +19,7 @@ Found a Python Package called PyPDF2 that converts pdf files to txt files.
 
 To run first install PyPDF2 (pip install PyPDF2) 	
 Next Install Google Text-To-Speech (pip install gTTS)
+
+This program works as expected, the only issue is the gTTS limitations, it can only
+produce an audiobook that is about 1 hour 30 minutes long before getting the 429
+"too many requests" error
